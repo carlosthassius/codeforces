@@ -1,2 +1,2 @@
 # codeforces
-Programação Competitiva
+Programação Competititva
